@@ -1,8 +1,12 @@
 # BigChat
 Chat-gpt api
-This app using chat-gpt apiv3. 
+
+This app using chat-gpt apiv3.
+
 For backend Nodejs (Express.js) and I used for database PostgreSQL.
+
 You can check resources. You will see code structre.
+
 Have a nice day!
 
 <a href="https://www.linkpicture.com/view.php?img=LPic64dde68201d4d987150998">
